@@ -129,7 +129,9 @@ text-align: right;
 .footer {
 background-color: white;
 }
+.footer h3 mark {
+background-color: #FBF2DC;
+}
 
-#A3B7ED
 
-#F4F7FF
+
